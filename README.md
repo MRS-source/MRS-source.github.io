@@ -3,8 +3,6 @@ layout: home
 title: 秋蓝音乐工坊
 permalink: /
 ---
-## 秋蓝音乐工坊
-
 ## 我是谁？
 
 我使用（**梦秋生**）这个昵称在网络上进行活动，这个网站是我的个人博客，平时我会把一些东西记录在此。
@@ -17,8 +15,8 @@ permalink: /
 
 我的视频发布在A站和油管。
 
-[AcFun 个人频道](https://www.acfun.cn/u/862330)
-[YouTube 个人频道](https://www.youtube.com/channel/UCdFrQhwFHf8zXd9Ic8oSlTA)
+- [AcFun 个人频道](https://www.acfun.cn/u/862330)
+- [YouTube 个人频道](https://www.youtube.com/channel/UCdFrQhwFHf8zXd9Ic8oSlTA)
 
 ### 联系方式
 
@@ -38,4 +36,6 @@ permalink: /
 
 [AcFun 直播频道](https://live.acfun.cn/live/862330)
 
---- 努力成为一个温柔的人，与君共勉。
+---
+
+努力成为一个温柔的人，与君共勉。

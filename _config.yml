@@ -1,0 +1,13 @@
+title: Autumn.Blue
+longtitle: Autumn.Blue
+author: 梦秋生
+email: marisa@autumn.blue
+description: >
+  梦秋生(MRS)的个人博客页面 - Autumn.Blue
+
+remote_theme: sighingnow/jekyll-gitbook
+syntax_highlighter_style: colorful
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
